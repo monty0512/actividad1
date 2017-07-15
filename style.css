@@ -1,0 +1,30 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+
+}
+
+.nav-color {
+	background-color: #000;
+}
+
+h1 {
+	color: #000;
+}
+
+p a {
+	color: #fff;
+	text-decoration: none;
+}
+
+p a:hover {
+	color: #53D435;
+	text-decoration: none;
+}
+
+.borde {
+	border: 1px solid #000;	
+}
